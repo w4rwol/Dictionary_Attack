@@ -34,6 +34,6 @@
 
 
 
-Otra de las recomendaciones es que no seas predecible a la hora de establecer una contraseña. Las mejores contraseñas están compuestas por palabras que no significan nada para la mayor parte del público. Ten presente que la longitud de la contraseña no determina su seguridad. No importa que elijas “pachycephalosaurus” o "gato" como contraseña; un ordenador tardará lo mismo en introducir ambas. Así que crea nuevas palabras, utiliza caracteres especiales originales o, mejor aún, escribe una cadena de letras en minúscula, mayúscula, símbolos y números.
+> Otra de las recomendaciones es que no seas predecible a la hora de establecer una contraseña. Las mejores contraseñas están compuestas por palabras que no significan nada para la mayor parte del público. Ten presente que la longitud de la contraseña no determina su seguridad. No importa que elijas “pachycephalosaurus” o "gato" como contraseña; un ordenador tardará lo mismo en introducir ambas. Así que crea nuevas palabras, utiliza caracteres especiales originales o, mejor aún, escribe una cadena de letras en minúscula, mayúscula, símbolos y números.
 
 ![Alt text](./dictio4.png)
