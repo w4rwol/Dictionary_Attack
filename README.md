@@ -13,4 +13,4 @@
 
 
 
-![Alt text](./img/attack/dictio1.png)
+![Alt text](./dictio1.png)
