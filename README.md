@@ -14,3 +14,23 @@
 
 
 ![Alt text](./dictio1.png)
+
+
+### EJEMPLO
+
+### CÓMO EVITAR UN ATAQUE DE DICCIONARIO
+
+
+> Cualquier departamente IT de cualquier empresa debería tomar medidas para proteger a sus sistemas de a ataques de diccionario. Los ataques online son fáciles de detener, por ejemplo, utilizando captchas, la autenticación de dos factores y limitando el número de intentos del usuario a la hora de iniciar sesión antes de bloquear su cuenta.
+
+![Alt text](./dictio2.png)
+
+
+> La cosa se complica cuando se trata de ataques offline. Aun así, es recomendable implementar la autenticación de dos factores y establecer reglas estrictas en materia de contraseñas: nada de contraseñas populares, nada de palabras o frases comunes, 12 caracteres mínimo, etc. Y lo más importante, no guardar las contraseñas en formato de texto sin encriptar.
+
+![Alt text](./dictio3.png)
+
+
+Pero ¿qué puedes hacer para evitar que las cuentas sean hackeadas? Lo primero y más importante, no seas predecible. Las mejores contraseñas están compuestas por palabras que no significan nada para la mayor parte del público. Ten presente que la longitud de la contraseña no determina su seguridad. No importa que elijas “pachycephalosaurus” o "gato" como contraseña; un ordenador tardará lo mismo en introducir ambas.
+
+Así que crea nuevas palabras, utiliza caracteres especiales originales o, mejor aún, escribe una cadena de letras en minúscula, mayúscula, símbolos y números.
