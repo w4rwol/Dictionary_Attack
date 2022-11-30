@@ -15,9 +15,11 @@
 > Estos ataques son tan comunes que cada vez más son los desarrolladores de aplicaciones y sitios web que imponen reglas más estrictas sobre qué tipos de contraseñas están permitidas. Al igual que otros ataques, el objetivo es robar información personal del usuario.
 
 
+### DIFERENCIAS ENTRE ATAQUE POR FUERZA BRUTA Y ATAQUE DE DICCIONARIO
+
+> Los ataques de fuerza bruta se usan mejor para contraseñas cortas y aleatorias, mientras que los ataques de diccionario son mejores herramientas para descifrar contraseñas más largas basadas en palabras reales o cualquier palabra que se tenga en el diccionario. Los ataques de diccionario son un poco más difíciles de configurar que los ataques de fuerza bruta, pero aún así no son demasiado complicados.
+
 ![Alt text](./dictio5.png)
-
-
 
 ### CÓMO EVITAR UN ATAQUE DE DICCIONARIO
 
