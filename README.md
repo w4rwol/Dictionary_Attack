@@ -14,6 +14,8 @@
 
 > Estos ataques son tan comunes que cada vez más son los desarrolladores de aplicaciones y sitios web que imponen reglas más estrictas sobre qué tipos de contraseñas están permitidas. Al igual que otros ataques, el objetivo es robar información personal del usuario.
 
+![Alt text](./dictio6.png)
+
 
 ### DIFERENCIAS ENTRE ATAQUE POR FUERZA BRUTA Y ATAQUE DE DICCIONARIO
 
