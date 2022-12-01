@@ -4,7 +4,7 @@
 
 ### DEFINICIÓN
 
-> Un ataque de diccionario es un ataque de fuerza bruta que tiene como objetivo obtener acceso a las cuentas de los usuarios mediante el uso de frases o palabras de uso común en un diccionario para adivinar contraseñas. También es muy utilizado para intentar encontrar la clave para descifrar un mensaje o documento cifrado.
+Un ataque de diccionario es un ataque de fuerza bruta que tiene como objetivo obtener acceso a las cuentas de los usuarios mediante el uso de frases o palabras de uso común en un diccionario para adivinar contraseñas. También es muy utilizado para intentar encontrar la clave para descifrar un mensaje o documento cifrado.
 
 
 ![Alt text](./dictio1.png)
