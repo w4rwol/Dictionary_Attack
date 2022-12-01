@@ -26,7 +26,7 @@ Los ataques de fuerza bruta se usan mejor para contraseñas cortas y aleatorias,
 ### CÓMO EVITAR UN ATAQUE DE DICCIONARIO
 
 
-Cualquier departamente IT de cualquier empresa debería tomar medidas para proteger a sus sistemas de a ataques de diccionario. Los ataques online son fáciles de detener, por ejemplo, utilizando captchas, la autenticación de dos factores y limitando el número de intentos del usuario a la hora de iniciar sesión antes de bloquear su cuenta.
+Cualquier departamento IT de cualquier empresa debería tomar medidas para proteger a sus sistemas de a ataques de diccionario. **Los ataques online son fáciles de detener**, por ejemplo, **utilizando captchas, la autenticación de dos factores y limitando el número de intentos del usuario a la hora de iniciar sesión antes de bloquear su cuenta.**
 
 ![Alt text](./dictio2.png)
 
